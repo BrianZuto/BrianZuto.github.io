@@ -1,0 +1,7 @@
+# versión sin envoltorio, solo para publicar como Artifact — no va al sitio
+_artifact.html
+
+.DS_Store
+check.png
+*.b64
+_tpl.html
