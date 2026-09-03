@@ -17,5 +17,5 @@ la foto va embebida como data URI, así que no hay assets externos que se rompan
 
 ## Contacto
 
-- LinkedIn: <https://www.linkedin.com/in/brian-zuleta-tob%C3%B3n-ba0aa71b9/>
+- LinkedIn: <https://www.linkedin.com/in/brianzuletadev>
 - GitHub: <https://github.com/BrianZuto>
